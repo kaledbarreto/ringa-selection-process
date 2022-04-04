@@ -17,8 +17,6 @@ function encoder(string) {
       if (count === 9) {
         save = save + count + modelo;
         count = 0;
-
-
       }
 
     } else {
